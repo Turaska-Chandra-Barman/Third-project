@@ -122,6 +122,9 @@ console.log(Brand) // output = ['Ford', 'Jeep', 'Mercetes']
 
 // 9.Math Related Problems
 
+
+
+
 // 1. Use the correct Math method to create a random number.
 // Answer:
 
